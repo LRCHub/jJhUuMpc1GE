@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "使一顆心免於哀傷",
+  "base_artist": "知更鳥、HOYO-MiX和Chevy",
+  "createdAt": "2026-03-23T17:50:48.546306Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "使一顆心免於哀傷",
+      "artist": "知更鳥",
+      "has_synced": true,
+      "path": "select/01_使一顆心免於哀傷_知更鳥.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "使一顆心免於哀傷",
+      "artist": "知更鳥,HOYO-MiX,Chevy",
+      "has_synced": true,
+      "path": "select/02_使一顆心免於哀傷_知更鳥,HOYO-MiX,Chevy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "使一顆心免於哀傷",
+      "artist": "知更鳥、HOYO-MiX 和 Chevy",
+      "has_synced": true,
+      "path": "select/03_使一顆心免於哀傷_知更鳥、HOYO-MiX_和_Chevy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "使一顆心免於哀傷（安可）",
+      "artist": "知更鳥",
+      "has_synced": false,
+      "path": "select/04_使一顆心免於哀傷(安可)_知更鳥.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "使一顆心免於哀傷 (Instrumental)",
+      "artist": "HOYO-MiX",
+      "has_synced": false,
+      "path": "select/05_使一顆心免於哀傷_(Instrumental)_HOYO-MiX.txt"
+    }
+  ]
+}
